@@ -66,7 +66,7 @@
     "ajv": "^6.10.0",
     "aws-sdk": "^2.799.0",
     "child_process": "^1.0.2",
-    "ethers": "^5.0.23",
+    "ethers": "^5.1.4",
     "fs": "0.0.1-security",
     "inquirer": "^7.0.0",
     "node-fetch": "^2.6.1",
