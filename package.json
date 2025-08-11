@@ -68,7 +68,7 @@
     "child_process": "^1.0.2",
     "ethers": "^5.0.23",
     "fs": "0.0.1-security",
-    "inquirer": "^7.0.0",
+    "inquirer": "^8.2.7",
     "node-fetch": "^2.6.1",
     "openzeppelin-solidity": "3.4.0",
     "semver": "^7.1.3",
